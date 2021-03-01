@@ -18,10 +18,10 @@ body{
     border-radius: 10px;
 }
 .deposit{
-    background-color: slateblue;
+    background-color: rgb(90, 111, 205);
 }
 .Withdraw{
-    background-color: burlywood;
+    background-color: rgb(255, 138, 71);
 }
 .balance{
     background-color: orange;
